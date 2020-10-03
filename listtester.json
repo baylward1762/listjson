@@ -1,35 +1,32 @@
 [
   {
-      "index": 1
-      "about":" About
-            Content creator on YouTube who dedicated his channel to all things NBA Live Mobile.
-            Before Fame
-            He played different games early in his YouTube career before earning his biggest fan base with his NBA Live Mobile content. Some of the early games he played included Taichi Panda, Deck Heroes and Soda Dungeon."
-      "email":"hhy@gmail.com"
-      "name": "BOBBBY BUCKETS"
-      "picture":"https://www.famousbirthdays.com/faces/buckets-bobby-image.jpg"
-   },
-  {
-      "index": 2
-      "about":"The Karen Hunter Show teaches the keys to entrepreneurial success in the industries of sports, politics, entertainment and so much more, directly from the celebrities and civilians who have personally created brands from the ground up. Hear the Karen Hunter Show on SiriusXM Urban View on-demand, channel 126"
-      "email":"usgh@gmail.com"
-      "name": "Karen SHow"
-      "picture":"https://i1.sndcdn.com/artworks-000093212867-gh5ifb-t500x500.jpg"
-  },
-  {
-      "index": 3
-      "about": "Tonight on MT, stars from all over the country come together to honor the late Kenny Rogers. Interviews and virtual performances from those entertainers will be featured throughout the night, and Lionel Richie will be one of those stars performing from his home."
-      "email":"swuytguy@gmail.com"
-      "name": "RICHY House"
-      "picture": "https://heavy.com/wp-content/uploads/2020/04/untitled-1.jpg?quality=65&strip=all"
-  },
-  {
-      "index": 4
-      "about": "We are two girls of 21.5 years who have long had in mind to move from the nest. The nest is nicely located in silkeborg right now, but we both have plans to start studying in Aarhus after the summer holidays and could therefore incredibly like an apartment from around the end of April / May 1 - then we can enjoy a little of Aarhus´ lovely atmosphere before we start at resp. Musicology and Sports."
-      "email":"sweatyboy27@gmail.com"
-      "name": "Kamile Hust"
-      "picture": "https://s3.eu-central-1.amazonaws.com/boligsurf-production/assets/images/009/079/124/fixed_500_400/43a3cfa630654a7b3750bc554459ebefe288b83c.jpg"
-  },
+		"index": 1,
+		"about": " About Content creator on YouTube who dedicated his channel to all things NBA Live Mobile. Before Fame He played different games early in his YouTube career before earning his biggest fan base with his NBA Live Mobile content.Some of the early games he played included Taichi Panda, Deck Heroes and Soda Dungeon.",
+		"email": "hhy@gmail.com",
+		"name": "BOBBBY BUCKETS",
+		"picture": "https://www.famousbirthdays.com/faces/buckets-bobby-image.jpg"
+	},
+	{
+		"index": 2,
+		"about": "The Karen Hunter Show teaches the keys to entrepreneurial success in the industries of sports, politics, entertainment and so much more, directly from the celebrities and civilians who have personally created brands from the ground up. Hear the Karen Hunter Show on SiriusXM Urban View on-demand, channel 126",
+		"email": "usgh@gmail.com",
+		"name": "Karen SHow",
+		"picture": "https://i1.sndcdn.com/artworks-000093212867-gh5ifb-t500x500.jpg"
+	},
+	{
+		"index": 3,
+		"about": "Tonight on MT, stars from all over the country come together to honor the late Kenny Rogers. Interviews and virtual performances from those entertainers will be featured throughout the night, and Lionel Richie will be one of those stars performing from his home.",
+		"email": "swuytguy@gmail.com",
+		"name": "RICHY House",
+		"picture": "https://heavy.com/wp-content/uploads/2020/04/untitled-1.jpg?quality=65&strip=all"
+	},
+	{
+		"index": 4,
+		"about": "We are two girls of 21.5 years who have long had in mind to move from the nest. The nest is nicely located in silkeborg right now, but we both have plans to start studying in Aarhus after the summer holidays and could therefore incredibly like an apartment from around the end of April / May 1 - then we can enjoy a little of Aarhus´ lovely atmosphere before we start at resp. Musicology and Sports.",
+		"email": "sweatyboy27@gmail.com",
+		"name": "Kamile Hust",
+		"picture": "https://s3.eu-central-1.amazonaws.com/boligsurf-production/assets/images/009/079/124/fixed_500_400/43a3cfa630654a7b3750bc554459ebefe288b83c.jpg"
+	}
 ]
 
   
