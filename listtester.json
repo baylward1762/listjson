@@ -5,7 +5,11 @@
 	  	"contact": "Marco Knaap",
 		"email":  "usgh@gmail.com",
 		"name": "Golfcentrum De Hoge Dijk",
-		"picture": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Adlington%20Golf%20Centre%20(agc-gb)"
+	  	"liveshot": "https://gdhd-nl.relay.trackmanrange.com/AureliaApp/#/shotviewer?hideTopMenu=true",
+	  	"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Adlington%20Golf%20Centre%20(agc-gb)",
+		"picture": "https://gdhd-nl.relay.trackmanrange.com/"
+	  
+	  	
 	},
 	{
 		"index": 2,
@@ -13,6 +17,8 @@
 		"contact": "Marco Knaap",
 		"email": "usgh@gmail.com",
 		"name": "Abu Dhabi Golf Club",
+		"liveshot": "https://gdhd-nl.relay.trackmanrange.com/AureliaApp/#/shotviewer?hideTopMenu=true",
+		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Adlington%20Golf%20Centre%20(agc-gb)",
 		"picture": "https://adgc-ae.relay.trackmanrange.com/"
 	},
 	{
@@ -21,6 +27,8 @@
 		"contact": "Marco Knaap",
 		"email": "swuytguy@gmail.com",
 		"name": "Adlington Golf Centre",
+		"liveshot": "https://gdhd-nl.relay.trackmanrange.com/AureliaApp/#/shotviewer?hideTopMenu=true",
+		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Adlington%20Golf%20Centre%20(agc-gb)",
 		"picture": "https://agc-gb.relay.trackmanrange.com/"
 	},
 	{
@@ -29,6 +37,8 @@
 		"contact": "Marco Knaap",
 		"email": "sweatyboy27@gmail.com",
 		"name": "Alba Golf ",
+		"liveshot": "https://gdhd-nl.relay.trackmanrange.com/AureliaApp/#/shotviewer?hideTopMenu=true",
+		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Adlington%20Golf%20Centre%20(agc-gb)",
 		"picture": "https://alg-jp.relay.trackmanrange.com/"
 	},
 		{
@@ -37,6 +47,8 @@
 		"contact": "Marco Knaap",
 		"email": "swuytguy@gmail.com",
 		"name": "Albany Golf Centre",
+		"liveshot": "https://gdhd-nl.relay.trackmanrange.com/AureliaApp/#/shotviewer?hideTopMenu=true",
+		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Adlington%20Golf%20Centre%20(agc-gb)",
 		"picture": "https://agc-bs.relay.trackmanrange.com/"
 	},
 		{
@@ -45,6 +57,8 @@
 		"contact": "Marco Knaap",
 		"email": "swuytguy@gmail.com",
 		"name": "Ballyneety Golf",
+		"liveshot": "https://gdhd-nl.relay.trackmanrange.com/AureliaApp/#/shotviewer?hideTopMenu=true",
+		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Adlington%20Golf%20Centre%20(agc-gb)",
 		"picture": "https://bgc-ie.relay.trackmanrange.com/"
 	},
 		{
@@ -53,6 +67,8 @@
 		"contact": "Marco Knaap",
 		"email": "swuytguy@gmail.com",
 		"name": "Beathesda CC",
+		"liveshot": "https://gdhd-nl.relay.trackmanrange.com/AureliaApp/#/shotviewer?hideTopMenu=true",
+		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Adlington%20Golf%20Centre%20(agc-gb)",
 		"picture": "https://bcc-md-us.relay.trackmanrange.com/"
 	},
 		{
@@ -61,6 +77,8 @@
 		"contact": "Marco Knaap",
 		"email": "swuytguy@gmail.com",
 		"name": "Birchwood Park Golf & Country Club",
+		"liveshot": "https://gdhd-nl.relay.trackmanrange.com/AureliaApp/#/shotviewer?hideTopMenu=true",
+		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Adlington%20Golf%20Centre%20(agc-gb)",
 		"picture": "https://bpgcc-gb.relay.trackmanrange.com/"
 	},
 		{
@@ -69,6 +87,8 @@
 		"contact": "Marco Knaap",
 		"email": "swuytguy@gmail.com",
 		"name": "Adlington Golf Centre",
+		"liveshot": "https://gdhd-nl.relay.trackmanrange.com/AureliaApp/#/shotviewer?hideTopMenu=true",
+		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Adlington%20Golf%20Centre%20(agc-gb)",
 		"picture": "https://agc-gb.relay.trackmanrange.com/"
 	},
 		{
@@ -77,6 +97,8 @@
 		"contact": "Marco Knaap",
 		"email": "swuytguy@gmail.com",
 		"name": "Carl's Golfland",
+		"liveshot": "https://gdhd-nl.relay.trackmanrange.com/AureliaApp/#/shotviewer?hideTopMenu=true",
+		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Adlington%20Golf%20Centre%20(agc-gb)",
 		"picture": "https://carl-us.relay.trackmanrange.com/"
 	},
 		{
@@ -85,6 +107,8 @@
 		"contact": "Marco Knaap",
 		"email": "swuytguy@gmail.com",
 		"name": "Carls St. Johns",
+		"liveshot": "https://gdhd-nl.relay.trackmanrange.com/AureliaApp/#/shotviewer?hideTopMenu=true",
+		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Adlington%20Golf%20Centre%20(agc-gb)",
 		"picture": "https://csj-mi-us.relay.trackmanrange.com/"
 	},
 		{
@@ -93,6 +117,8 @@
 		"contact": "Marco Knaap",
 		"email": "swuytguy@gmail.com",
 		"name": "Chichester Golf Club",
+		"liveshot": "https://gdhd-nl.relay.trackmanrange.com/AureliaApp/#/shotviewer?hideTopMenu=true",
+		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Adlington%20Golf%20Centre%20(agc-gb)",
 		"picture": "https://cgc-gb.relay.trackmanrange.com/"
 	},
 		{
@@ -101,6 +127,8 @@
 		"contact": "Marco Knaap",
 		"email": "swuytguy@gmail.com",
 		"name": "Chimera Golf Club",
+		"liveshot": "https://gdhd-nl.relay.trackmanrange.com/AureliaApp/#/shotviewer?hideTopMenu=true",
+		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Adlington%20Golf%20Centre%20(agc-gb)",
 		"picture": "https://cgc2-nv-us.relay.trackmanrange.com/"
 	},
 	{
@@ -109,6 +137,8 @@
 		"contact": "Marco Knaap",
 		"email": "swuytguy@gmail.com",
 		"name": "Chichester Golf Club",
+		"liveshot": "https://gdhd-nl.relay.trackmanrange.com/AureliaApp/#/shotviewer?hideTopMenu=true",
+		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Adlington%20Golf%20Centre%20(agc-gb)",
 		"picture": "https://cgc-gb.relay.trackmanrange.com/"
 	},
 	{
@@ -117,6 +147,8 @@
 		"contact": "Marco Knaap",
 		"email": "swuytguy@gmail.com",
 		"name": "Chichester Golf Club",
+		"liveshot": "https://gdhd-nl.relay.trackmanrange.com/AureliaApp/#/shotviewer?hideTopMenu=true",
+		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Adlington%20Golf%20Centre%20(agc-gb)",
 		"picture": "https://cgc-gb.relay.trackmanrange.com/"
 	},
 	{
@@ -125,6 +157,8 @@
 		"contact": "Marco Knaap",
 		"email": "swuytguy@gmail.com",
 		"name": "Chichester Golf Club",
+		"liveshot": "https://gdhd-nl.relay.trackmanrange.com/AureliaApp/#/shotviewer?hideTopMenu=true",
+		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Adlington%20Golf%20Centre%20(agc-gb)",
 		"picture": "https://cgc-gb.relay.trackmanrange.com/"
 	},
 	{
@@ -133,6 +167,8 @@
 		"contact": "Marco Knaap",
 		"email": "swuytguy@gmail.com",
 		"name": "Chichester Golf Club",
+		"liveshot": "https://gdhd-nl.relay.trackmanrange.com/AureliaApp/#/shotviewer?hideTopMenu=true",
+		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Adlington%20Golf%20Centre%20(agc-gb)",
 		"picture": "https://cgc-gb.relay.trackmanrange.com/"
 	},
 	{
@@ -141,6 +177,8 @@
 		"contact": "Marco Knaap",
 		"email": "swuytguy@gmail.com",
 		"name": "Chichester Golf Club",
+		"liveshot": "https://gdhd-nl.relay.trackmanrange.com/AureliaApp/#/shotviewer?hideTopMenu=true",
+		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Adlington%20Golf%20Centre%20(agc-gb)",
 		"picture": "https://cgc-gb.relay.trackmanrange.com/"
 	},
 	{
@@ -149,6 +187,7 @@
 		"contact": "Marco Knaap",
 		"email": "swuytguy@gmail.com",
 		"name": "Chichester Golf Club",
+		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Adlington%20Golf%20Centre%20(agc-gb)",
 		"picture": "https://cgc-gb.relay.trackmanrange.com/"
 	},
 	{
@@ -157,6 +196,8 @@
 		"contact": "Marco Knaap",
 		"email": "swuytguy@gmail.com",
 		"name": "Chichester Golf Club",
+		"liveshot": "https://gdhd-nl.relay.trackmanrange.com/AureliaApp/#/shotviewer?hideTopMenu=true",
+		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Adlington%20Golf%20Centre%20(agc-gb)",
 		"picture": "https://cgc-gb.relay.trackmanrange.com/"
 	},
 	{
@@ -165,6 +206,8 @@
 		"contact": "Marco Knaap",
 		"email": "swuytguy@gmail.com",
 		"name": "Chichester Golf Club",
+		"liveshot": "https://gdhd-nl.relay.trackmanrange.com/AureliaApp/#/shotviewer?hideTopMenu=true",
+		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Adlington%20Golf%20Centre%20(agc-gb)",
 		"picture": "https://cgc-gb.relay.trackmanrange.com/"
 	},
 	{
@@ -173,6 +216,8 @@
 		"contact": "Marco Knaap",
 		"email": "swuytguy@gmail.com",
 		"name": "Chichester Golf Club",
+		"liveshot": "https://gdhd-nl.relay.trackmanrange.com/AureliaApp/#/shotviewer?hideTopMenu=true",
+		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Adlington%20Golf%20Centre%20(agc-gb)",
 		"picture": "https://cgc-gb.relay.trackmanrange.com/"
 	},
 	{
@@ -181,6 +226,8 @@
 		"contact": "Marco Knaap",
 		"email": "swuytguy@gmail.com",
 		"name": "Chichester Golf Club",
+		"liveshot": "https://gdhd-nl.relay.trackmanrange.com/AureliaApp/#/shotviewer?hideTopMenu=true",
+		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Adlington%20Golf%20Centre%20(agc-gb)",
 		"picture": "https://cgc-gb.relay.trackmanrange.com/"
 	},
 	{
@@ -189,6 +236,8 @@
 		"contact": "Marco Knaap",
 		"email": "swuytguy@gmail.com",
 		"name": "Chichester Golf Club",
+		"liveshot": "https://gdhd-nl.relay.trackmanrange.com/AureliaApp/#/shotviewer?hideTopMenu=true",
+		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Adlington%20Golf%20Centre%20(agc-gb)",
 		"picture": "https://cgc-gb.relay.trackmanrange.com/"
 	},
 	{
@@ -197,6 +246,8 @@
 		"contact": "Marco Knaap",
 		"email": "swuytguy@gmail.com",
 		"name": "Chichester Golf Club",
+		"liveshot": "https://gdhd-nl.relay.trackmanrange.com/AureliaApp/#/shotviewer?hideTopMenu=true",
+		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Adlington%20Golf%20Centre%20(agc-gb)",
 		"picture": "https://cgc-gb.relay.trackmanrange.com/"
 	},
 	{
@@ -205,6 +256,8 @@
 		"contact": "Marco Knaap",
 		"email": "swuytguy@gmail.com",
 		"name": "Chichester Golf Club",
+		"liveshot": "https://gdhd-nl.relay.trackmanrange.com/AureliaApp/#/shotviewer?hideTopMenu=true",
+		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Adlington%20Golf%20Centre%20(agc-gb)",
 		"picture": "https://cgc-gb.relay.trackmanrange.com/"
 	},
 	{
@@ -213,6 +266,8 @@
 		"contact": "Marco Knaap",
 		"email": "swuytguy@gmail.com",
 		"name": "Chichester Golf Club",
+		"liveshot": "https://gdhd-nl.relay.trackmanrange.com/AureliaApp/#/shotviewer?hideTopMenu=true",
+		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Adlington%20Golf%20Centre%20(agc-gb)",
 		"picture": "https://cgc-gb.relay.trackmanrange.com/"
 	},
 	{
@@ -221,6 +276,8 @@
 		"contact": "Marco Knaap",
 		"email": "swuytguy@gmail.com",
 		"name": "Chichester Golf Club",
+		"liveshot": "https://gdhd-nl.relay.trackmanrange.com/AureliaApp/#/shotviewer?hideTopMenu=true",
+		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Adlington%20Golf%20Centre%20(agc-gb)",
 		"picture": "https://cgc-gb.relay.trackmanrange.com/"
 	}
 	
