@@ -133,13 +133,13 @@
 	},
 	{
 		"index": 14,
-		"phone": "111111111",
-		"contact": "Marco Knaap",
-		"email": "swuytguy@gmail.com",
-		"name": "Chichester Golf Club",
-		"liveshot": "https://cgc-gb.relay.trackmanrange.com/AureliaApp/#/shotviewer?hideTopMenu=true",
+		"phone": "None",
+		"contact": "Edson Saldierna",
+		"email": "esaldierna@driveshack.com",
+		"name": "Drive Shack Orlando",
+		"liveshot": "https://dso-fl-us.relay.trackmanrange.com/AureliaApp/#/shotviewer?hideTopMenu=true",
 		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Adlington%20Golf%20Centre%20(agc-gb)",
-		"picture": "https://cgc-gb.relay.trackmanrange.com/"
+		"picture": "https://dso-fl-us.relay.trackmanrange.com/"
 	},
 	{
 		"index": 15,
@@ -163,32 +163,33 @@
 	},
 	{
 		"index": 17,
-		"phone": "111111111",
-		"contact": "Marco Knaap",
-		"email": "swuytguy@gmail.com",
-		"name": "Chichester Golf Club",
-		"liveshot": "https://gdhd-nl.relay.trackmanrange.com/AureliaApp/#/shotviewer?hideTopMenu=true",
+		"phone": "None",
+		"contact": "Edson Saldierna",
+		"email": "esaldierna@driveshack.com",
+		"name": "Drive Shack Raleigh",
+		"liveshot": "https://dsr-nc-us.relay.trackmanrange.com/AureliaApp/#/shotviewer?hideTopMenu=true",
 		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Adlington%20Golf%20Centre%20(agc-gb)",
-		"picture": "https://cgc-gb.relay.trackmanrange.com/"
+		"picture": "https://dsr-nc-us.relay.trackmanrange.com/"
 	},
 	{
 		"index": 18,
-		"phone": "111111111",
-		"contact": "Marco Knaap",
-		"email": "swuytguy@gmail.com",
-		"name": "Chichester Golf Club",
-		"liveshot": "https://gdhd-nl.relay.trackmanrange.com/AureliaApp/#/shotviewer?hideTopMenu=true",
+		"phone": "None",
+		"contact": "Edson Saldierna",
+		"email": "esaldierna@driveshack.com",
+		"name": "Drive Shack Richmond",
+		"liveshot": "https://dsr-va-us.relay.trackmanrange.com/AureliaApp/#/shotviewer?hideTopMenu=true",
 		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Adlington%20Golf%20Centre%20(agc-gb)",
-		"picture": "https://cgc-gb.relay.trackmanrange.com/"
+		"picture": "https://dsr-va-us.relay.trackmanrange.com/"
 	},
 	{
 		"index": 19,
-		"phone": "111111111",
-		"contact": "Marco Knaap",
-		"email": "swuytguy@gmail.com",
-		"name": "Chichester Golf Club",
+		"phone": "None",
+		"contact": "Edson Saldierna",
+		"email": "esaldierna@driveshack.com",
+		"name": "Drive Shack West Palm Beach",
+		"liveshot": "https://dswpb-fl-us.relay.trackmanrange.com/AureliaApp/#/shotviewer?hideTopMenu=true",
 		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Adlington%20Golf%20Centre%20(agc-gb)",
-		"picture": "https://cgc-gb.relay.trackmanrange.com/"
+		"picture": "https://dswpb-fl-us.relay.trackmanrange.com/"
 	},
 	{
 		"index": 20,
