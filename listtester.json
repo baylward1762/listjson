@@ -196,10 +196,12 @@
 		"phone": "111111111",
 		"contact": "Marco Knaap",
 		"email": "swuytguy@gmail.com",
-		"name": "Chichester Golf Club",
-		"liveshot": "https://gdhd-nl.relay.trackmanrange.com/AureliaApp/#/shotviewer?hideTopMenu=true",
+		"name": "Education City Golf Club",
+		"liveshot": "https://qigc1-qa.relay.trackmanrange.com/AureliaApp/#/shotviewer?hideTopMenu=true",
 		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Adlington%20Golf%20Centre%20(agc-gb)",
-		"picture": "https://cgc-gb.relay.trackmanrange.com/"
+		"picture": "https://qigc1-qa.relay.trackmanrange.com/",
+		"picture2": "https://qigc2-qa.relay.trackmanrange.com/"
+		
 	},
 	{
 		"index": 21,
