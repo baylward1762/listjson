@@ -38,7 +38,7 @@
 		"email": "sweatyboy27@gmail.com",
 		"name": "Alba Golf ",
 		"liveshot": "https://alg-jp.relay.trackmanrange.com/AureliaApp/#/shotviewer?hideTopMenu=true",
-		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Adlington%20Golf%20Centre%20(agc-gb)",
+		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Alba%20Golf%20(alg-jp)",
 		"picture": "https://alg-jp.relay.trackmanrange.com/"
 	},
 		{
@@ -48,7 +48,7 @@
 		"email": "swuytguy@gmail.com",
 		"name": "Albany Golf Centre",
 		"liveshot": "https://agc-bs.relay.trackmanrange.com/AureliaApp/#/shotviewer?hideTopMenu=true",
-		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Adlington%20Golf%20Centre%20(agc-gb)",
+		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Albany%20Golf%20Course%20(agc-bs)",
 		"picture": "https://agc-bs.relay.trackmanrange.com/"
 	},
 		{
@@ -58,7 +58,7 @@
 		"email": "swuytguy@gmail.com",
 		"name": "Ballyneety Golf",
 		"liveshot": "https://bgc-ie.relay.trackmanrange.com/AureliaApp/#/shotviewer?hideTopMenu=true",
-		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Adlington%20Golf%20Centre%20(agc-gb)",
+		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Ballyneety%20Golf%20Club%20(bgc-ie)",
 		"picture": "https://bgc-ie.relay.trackmanrange.com/"
 	},
 		{
@@ -68,7 +68,7 @@
 		"email": "swuytguy@gmail.com",
 		"name": "Beathesda CC",
 		"liveshot": "https://bcc-md-us.relay.trackmanrange.com/AureliaApp/#/shotviewer?hideTopMenu=true",
-		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Adlington%20Golf%20Centre%20(agc-gb)",
+		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Bethesda%20Country%20Club%20(bcc-md-us)",
 		"picture": "https://bcc-md-us.relay.trackmanrange.com/"
 	},
 		{
@@ -78,7 +78,7 @@
 		"email": "swuytguy@gmail.com",
 		"name": "Birchwood Park Golf & Country Club",
 		"liveshot": "https://bpgcc-gb.relay.trackmanrange.com/AureliaApp/#/shotviewer?hideTopMenu=true",
-		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Adlington%20Golf%20Centre%20(agc-gb)",
+		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Birchwood%20Park%20Golf%20%26%20Country%20Club%20(bpgcc-gb)",
 		"picture": "https://bpgcc-gb.relay.trackmanrange.com/"
 	},
 		{
@@ -98,7 +98,7 @@
 		"email": "swuytguy@gmail.com",
 		"name": "Carl's Golfland",
 		"liveshot": "https://carl-us.relay.trackmanrange.com/AureliaApp/#/shotviewer?hideTopMenu=true",
-		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Adlington%20Golf%20Centre%20(agc-gb)",
+		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Carl%27s%20Golfland%20(carl-us)",
 		"picture": "https://carl-us.relay.trackmanrange.com/"
 	},
 		{
@@ -108,7 +108,7 @@
 		"email": "swuytguy@gmail.com",
 		"name": "Carls St. Johns",
 		"liveshot": "https://csj-mi-us.relay.trackmanrange.com/AureliaApp/#/shotviewer?hideTopMenu=true",
-		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Adlington%20Golf%20Centre%20(agc-gb)",
+		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Carls%20St%20Johns%20(csj-mi-us)",
 		"picture": "https://csj-mi-us.relay.trackmanrange.com/"
 	},
 		{
@@ -118,7 +118,7 @@
 		"email": "swuytguy@gmail.com",
 		"name": "Chichester Golf Club",
 		"liveshot": "https://cgc-gb.relay.trackmanrange.com/AureliaApp/#/shotviewer?hideTopMenu=true",
-		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Adlington%20Golf%20Centre%20(agc-gb)",
+		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Chichester%20Golf%20Club%20(cgc-gb)",
 		"picture": "https://cgc-gb.relay.trackmanrange.com/"
 	},
 		{
@@ -128,7 +128,7 @@
 		"email": "swuytguy@gmail.com",
 		"name": "Chimera Golf Club",
 		"liveshot": "https://cgc2-nv-us.relay.trackmanrange.com/AureliaApp/#/shotviewer?hideTopMenu=true",
-		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Adlington%20Golf%20Centre%20(agc-gb)",
+		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Chimera%20Golf%20Club%20(cgc2-nv-us)",
 		"picture": "https://cgc2-nv-us.relay.trackmanrange.com/"
 	},
 	{
@@ -138,7 +138,7 @@
 		"email": "esaldierna@driveshack.com",
 		"name": "Drive Shack Orlando",
 		"liveshot": "https://dso-fl-us.relay.trackmanrange.com/AureliaApp/#/shotviewer?hideTopMenu=true",
-		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Adlington%20Golf%20Centre%20(agc-gb)",
+		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Drive%20Shack%20Orlando%20(dso-fl-us)",
 		"picture": "https://dso-fl-us.relay.trackmanrange.com/"
 	},
 	{
@@ -148,7 +148,7 @@
 		"email": "swuytguy@gmail.com",
 		"name": "Copenhagen Golf Center",
 		"liveshot": "https://cgc-dk.relay.trackmanrange.com/AureliaApp/#/shotviewer?hideTopMenu=true",
-		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Adlington%20Golf%20Centre%20(agc-gb)",
+		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Copenhagen%20Golf%20Center%20(cgc-dk)",
 		"picture": "https://cgc-dk.relay.trackmanrange.com/"
 	},
 	{
@@ -158,7 +158,7 @@
 		"email": "swuytguy@gmail.com",
 		"name": "Dallas National Golf Club",
 		"liveshot": "https://dntx-us.relay.trackmanrange.com/AureliaApp/#/shotviewer?hideTopMenu=true",
-		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Adlington%20Golf%20Centre%20(agc-gb)",
+		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Dallas%20National%20Golf%20Club%20(dntx-us)",
 		"picture": "https://dntx-us.relay.trackmanrange.com/"
 	},
 	{
@@ -168,7 +168,7 @@
 		"email": "esaldierna@driveshack.com",
 		"name": "Drive Shack Raleigh",
 		"liveshot": "https://dsr-nc-us.relay.trackmanrange.com/AureliaApp/#/shotviewer?hideTopMenu=true",
-		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Adlington%20Golf%20Centre%20(agc-gb)",
+		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Drive%20Shack%20Raleigh%20(dsr-nc-us)",
 		"picture": "https://dsr-nc-us.relay.trackmanrange.com/"
 	},
 	{
@@ -178,7 +178,7 @@
 		"email": "esaldierna@driveshack.com",
 		"name": "Drive Shack Richmond",
 		"liveshot": "https://dsr-va-us.relay.trackmanrange.com/AureliaApp/#/shotviewer?hideTopMenu=true",
-		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Adlington%20Golf%20Centre%20(agc-gb)",
+		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Drive%20Shack%20Richmond%20(dsr-va-us)",
 		"picture": "https://dsr-va-us.relay.trackmanrange.com/"
 	},
 	{
@@ -188,7 +188,7 @@
 		"email": "esaldierna@driveshack.com",
 		"name": "Drive Shack West Palm Beach",
 		"liveshot": "https://dswpb-fl-us.relay.trackmanrange.com/AureliaApp/#/shotviewer?hideTopMenu=true",
-		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Adlington%20Golf%20Centre%20(agc-gb)",
+		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Drive%20Shack%20West%20Palm%20Beach%20(dswpb-fl-us)",
 		"picture": "https://dswpb-fl-us.relay.trackmanrange.com/"
 	},
 	{
@@ -198,7 +198,7 @@
 		"email": "swuytguy@gmail.com",
 		"name": "Education City Golf Club",
 		"liveshot": "https://qigc1-qa.relay.trackmanrange.com/AureliaApp/#/shotviewer?hideTopMenu=true",
-		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Adlington%20Golf%20Centre%20(agc-gb)",
+		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Qatar%20International%20Golf%20Club%201%20(qigc1-qa)",
 		"picture": "https://qigc1-qa.relay.trackmanrange.com/"
 		
 	},
@@ -208,8 +208,8 @@
 		"contact": "Marco Knaap",
 		"email": "swuytguy@gmail.com",
 		"name": "Education City Golf Club",
-		"liveshot": "https://qigc1-qa.relay.trackmanrange.com/AureliaApp/#/shotviewer?hideTopMenu=true",
-		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Adlington%20Golf%20Centre%20(agc-gb)",
+		"liveshot": "https://qigc2-qa.relay.trackmanrange.com/AureliaApp/#/shotviewer?hideTopMenu=true",
+		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Qatar%20International%20Golf%20Club%202%20(qigc2-qa)",
 		"picture": "https://qigc2-qa.relay.trackmanrange.com/"
 	},
 	{
@@ -219,7 +219,7 @@
 		"email": "swuytguy@gmail.com",
 		"name": "Fuji Golf Center",
 		"liveshot": "https://fgc-2-jp.relay.trackmanrange.com/AureliaApp/#/shotviewer?hideTopMenu=true",
-		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Adlington%20Golf%20Centre%20(agc-gb)",
+		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Fuji%20Golf%20Center%20(fgc-2-jp)",
 		"picture": "https://fgc-2-jp.relay.trackmanrange.com/"
 	},
 	{
@@ -229,7 +229,7 @@
 		"email": "swuytguy@gmail.com",
 		"name": "Furuya Golf Garden",
 		"liveshot": "https://fgc-jp.relay.trackmanrange.com/AureliaApp/#/shotviewer?hideTopMenu=true",
-		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Adlington%20Golf%20Centre%20(agc-gb)",
+		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Furuya%20Golf%20Club%20(fgc-jp)",
 		"picture": "https://fgc-jp.relay.trackmanrange.com/"
 	},
 	{
@@ -239,7 +239,7 @@
 		"email": "swuytguy@gmail.com",
 		"name": "Golf Club Bonn-Godesberg",
 		"liveshot": "https://gcbg-de.relay.trackmanrange.com/AureliaApp/#/shotviewer?hideTopMenu=true",
-		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Adlington%20Golf%20Centre%20(agc-gb)",
+		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Golf%20Club%20Bonn-Godesberg%20(gcbg-de)",
 		"picture": "https://gcbg-de.relay.trackmanrange.com/"
 	},
 	{
@@ -249,7 +249,7 @@
 		"email": "swuytguy@gmail.com",
 		"name": "Golf Lounge Hamburg",
 		"liveshot": "https://glh-de.relay.trackmanrange.com/AureliaApp/#/shotviewer?hideTopMenu=true",
-		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Adlington%20Golf%20Centre%20(agc-gb)",
+		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Golf%20Lounge%20Hamburg%20(glh-de)",
 		"picture": "https://glh-de.relay.trackmanrange.com/"
 	},
 	{
@@ -259,7 +259,7 @@
 		"email": "swuytguy@gmail.com",
 		"name": "Golf ParisLongchamp",
 		"liveshot": "https://gpl-fr.relay.trackmanrange.com/AureliaApp/#/shotviewer?hideTopMenu=true",
-		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Adlington%20Golf%20Centre%20(agc-gb)",
+		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Golf%20Paris%20Longchamp%20(gpl-fr)",
 		"picture": "https://gpl-fr.relay.trackmanrange.com/"
 	},
 	{
@@ -269,7 +269,7 @@
 		"email": "swuytguy@gmail.com",
 		"name": "Golfcentrum De Hoge Dijk",
 		"liveshot": "https://gdhd-nl.relay.trackmanrange.com/AureliaApp/#/shotviewer?hideTopMenu=true",
-		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Adlington%20Golf%20Centre%20(agc-gb)",
+		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Golfcentrum%20De%20Hoge%20Dijk%20(gdhd-nl)",
 		"picture": "https://gdhd-nl.relay.trackmanrange.com/"
 	},
 	{
@@ -277,9 +277,9 @@
 		"phone": "111111111",
 		"contact": "Marco Knaap",
 		"email": "swuytguy@gmail.com",
-		"name": "Golfclub Wörthsee",
+		"name": "Golf Club Wörthsee",
 		"liveshot": "https://gcw-de.relay.trackmanrange.com/AureliaApp/#/shotviewer?hideTopMenu=true",
-		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Adlington%20Golf%20Centre%20(agc-gb)",
+		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Golf%20club%20W%C3%B6rthsee%20(gcw-de)",
 		"picture": "https://gcw-de.relay.trackmanrange.com/"
 	},
 	{
@@ -289,7 +289,7 @@
 		"email": "swuytguy@gmail.com",
 		"name": "Golfklúbbur Reykjavíkur",
 		"liveshot": "https://gor-is.relay.trackmanrange.com/AureliaApp/#/shotviewer?hideTopMenu=true",
-		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Adlington%20Golf%20Centre%20(agc-gb)",
+		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Golfkl%C3%BAbbur%20Reykjav%C3%ADkur%20(gor-is)",
 		"picture": "https://gor-is.relay.trackmanrange.com/"
 	},	
 	{
@@ -299,7 +299,7 @@
 		"email": "swuytguy@gmail.com",
 		"name": "Great Western Golf",
 		"liveshot": "https://gwg-gb.relay.trackmanrange.com/AureliaApp/#/shotviewer?hideTopMenu=true",
-		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Adlington%20Golf%20Centre%20(agc-gb)",
+		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Great%20Western%20Golf%20(gwg-gb)",
 		"picture": "https://gwg-gb.relay.trackmanrange.com/"
 	},	
 	{
@@ -309,7 +309,7 @@
 		"email": "swuytguy@gmail.com",
 		"name": "Hanz Golf Club",
 		"liveshot": "https://hgc-jp.relay.trackmanrange.com/AureliaApp/#/shotviewer?hideTopMenu=true",
-		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Adlington%20Golf%20Centre%20(agc-gb)",
+		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Hanz%20Golf%20Club%20(hgc-jp)",
 		"picture": "https://hgc-jp.relay.trackmanrange.com/"
 	},	
 	{
@@ -319,7 +319,7 @@
 		"email": "swuytguy@gmail.com",
 		"name": "Hillcrest Country Club",
 		"liveshot": "https://hcc-ca-us.relay.trackmanrange.com/AureliaApp/#/shotviewer?hideTopMenu=true",
-		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Adlington%20Golf%20Centre%20(agc-gb)",
+		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Hillcrest%20Country%20Club%20(hcc-ca-us)",
 		"picture": "https://hcc-ca-us.relay.trackmanrange.com/"
 	},	
 	{
@@ -329,7 +329,7 @@
 		"email": "swuytguy@gmail.com",
 		"name": "Hinton Golf Club",
 		"liveshot": "https://hgc-se.relay.trackmanrange.com/AureliaApp/#/shotviewer?hideTopMenu=true",
-		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Adlington%20Golf%20Centre%20(agc-gb)",
+		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Hinton%20Golf%20Club%20(hgc-se)",
 		"picture": "https://hgc-se.relay.trackmanrange.com/"
 	},	
 	{
@@ -339,7 +339,7 @@
 		"email": "swuytguy@gmail.com",
 		"name": "Hoebridge Golf Centre",
 		"liveshot": "https://hgc-gb.relay.trackmanrange.com/AureliaApp/#/shotviewer?hideTopMenu=true",
-		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Adlington%20Golf%20Centre%20(agc-gb)",
+		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Hoebridge%20Golf%20Centre%20(hgc-gb)",
 		"picture": "https://hgc-gb.relay.trackmanrange.com/"
 	},	
 	{
@@ -349,7 +349,7 @@
 		"email": "swuytguy@gmail.com",
 		"name": "Hofgut Scheibenhardt GC",
 		"liveshot": "https://hsgc-de.relay.trackmanrange.com/AureliaApp/#/shotviewer?hideTopMenu=true",
-		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Adlington%20Golf%20Centre%20(agc-gb)",
+		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Hofgut%20Scheibenhardt%20GC%201%20(hsgc-de)",
 		"picture": "https://hsgc-de.relay.trackmanrange.com/"
 	},	
 	{
@@ -359,7 +359,7 @@
 		"email": "swuytguy@gmail.com",
 		"name": "Holzhäusern Golfpark",
 		"liveshot": "https://hh-ch.relay.trackmanrange.com/AureliaApp/#/shotviewer?hideTopMenu=true",
-		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Adlington%20Golf%20Centre%20(agc-gb)",
+		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Holzh%C3%A4usern%20Golfpark%20(hh-ch)",
 		"picture": "https://hh-ch.relay.trackmanrange.com/"
 	},	
 	{
@@ -369,7 +369,7 @@
 		"email": "swuytguy@gmail.com",
 		"name": "Hualalai Golf Course at Four Seasons",
 		"liveshot": "https://hgcafs-hi-us.relay.trackmanrange.com/AureliaApp/#/shotviewer?hideTopMenu=true",
-		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Adlington%20Golf%20Centre%20(agc-gb)",
+		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Hualalai%20Golf%20Course%20(hgcafs-hi-us)",
 		"picture": "https://hgcafs-hi-us.relay.trackmanrange.com/"
 	},	
 	{
@@ -389,7 +389,7 @@
 		"email": "swuytguy@gmail.com",
 		"name": "Hørsholm Golfklub",
 		"liveshot": "https://hrg-dk.relay.trackmanrange.com/AureliaApp/#/shotviewer?hideTopMenu=true",
-		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Adlington%20Golf%20Centre%20(agc-gb)",
+		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Hudson%20National%20NY%20(hn-ny-us)",
 		"picture": "https://hrg-dk.relay.trackmanrange.com/"
 	},	
 	{
@@ -399,7 +399,7 @@
 		"email": "swuytguy@gmail.com",
 		"name": "Johns Island Club",
 		"liveshot": "https://jic-fl-us.relay.trackmanrange.com/AureliaApp/#/shotviewer?hideTopMenu=true",
-		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Adlington%20Golf%20Centre%20(agc-gb)",
+		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Johns%20Island%20Club%20(jic-fl-us)",
 		"picture": "https://jic-fl-us.relay.trackmanrange.com/"
 	},	
 	{
