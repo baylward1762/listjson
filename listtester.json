@@ -411,7 +411,7 @@
 		"liveshot": "https://kar-jp.relay.trackmanrange.com/AureliaApp/#/shotviewer?hideTopMenu=true",
 		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Adlington%20Golf%20Centre%20(agc-gb)",
 		"picture": "https://kar-jp.relay.trackmanrange.com/"
-	}
+	},
 	{
 		"index": 42,
 		"phone": "111111111",
