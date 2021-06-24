@@ -1,16 +1,5 @@
 [
-  {
-		"index": 1,
-		"phone": "(623)222-9749",
-	  	"contact": "Marco Knaap",
-		"email":  "usgh@gmail.com",
-		"name": "Golfcentrum De Hoge Dijk",
-	  	"liveshot": "https://gdhd-nl.relay.trackmanrange.com/AureliaApp/#/shotviewer?hideTopMenu=true",
-	  	"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Adlington%20Golf%20Centre%20(agc-gb)",
-		"picture": "https://gdhd-nl.relay.trackmanrange.com/"
-	  
-	  	
-	},
+ 
 	{
 		"index": 2,
 		"phone": "(810)225-9855",
@@ -40,6 +29,16 @@
 		"liveshot": "https://alg-jp.relay.trackmanrange.com/AureliaApp/#/shotviewer?hideTopMenu=true",
 		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Alba%20Golf%20(alg-jp)",
 		"picture": "https://alg-jp.relay.trackmanrange.com/"
+	},
+	{
+		"index": 9,
+		"phone": "111111111",
+		"contact": "Marco Knaap",
+		"email": "swuytguy@gmail.com",
+		"name": "Adlington Golf Centre",
+		"liveshot": "https://agc-gb.relay.trackmanrange.com/AureliaApp/#/shotviewer?hideTopMenu=true",
+		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Adlington%20Golf%20Centre%20(agc-gb)",
+		"picture": "https://agc-gb.relay.trackmanrange.com/"
 	},
 		{
 		"index": 5,
@@ -80,17 +79,19 @@
 		"liveshot": "https://bpgcc-gb.relay.trackmanrange.com/AureliaApp/#/shotviewer?hideTopMenu=true",
 		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Birchwood%20Park%20Golf%20%26%20Country%20Club%20(bpgcc-gb)",
 		"picture": "https://bpgcc-gb.relay.trackmanrange.com/"
+		},
+	{
+		"index": 74,
+		"phone": "07796590206",
+		"contact": "Warwick Stevens",
+		"email": "Bramcotegolf1@gmail.com",
+		"name": "Bramcote Golf Range",
+		"liveshot": "https://bgr-gb.relay.trackmanrange.com/AureliaApp/#/shotviewer?hideTopMenu=true",
+		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Bramcote%20Golf%20Range%20(bgr-gb)",
+		"picture": "https://bgr-gb.relay.trackmanrange.com/"
 	},
-		{
-		"index": 9,
-		"phone": "111111111",
-		"contact": "Marco Knaap",
-		"email": "swuytguy@gmail.com",
-		"name": "Adlington Golf Centre",
-		"liveshot": "https://agc-gb.relay.trackmanrange.com/AureliaApp/#/shotviewer?hideTopMenu=true",
-		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Adlington%20Golf%20Centre%20(agc-gb)",
-		"picture": "https://agc-gb.relay.trackmanrange.com/"
-	},
+	
+		
 		{
 		"index": 10,
 		"phone": "111111111",
@@ -241,6 +242,18 @@
 		"liveshot": "https://gcbg-de.relay.trackmanrange.com/AureliaApp/#/shotviewer?hideTopMenu=true",
 		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Golf%20Club%20Bonn-Godesberg%20(gcbg-de)",
 		"picture": "https://gcbg-de.relay.trackmanrange.com/"
+	},
+	{
+		"index": 1,
+		"phone": "(623)222-9749",
+	  	"contact": "Marco Knaap",
+		"email":  "usgh@gmail.com",
+		"name": "Golfcentrum De Hoge Dijk",
+	  	"liveshot": "https://gdhd-nl.relay.trackmanrange.com/AureliaApp/#/shotviewer?hideTopMenu=true",
+	  	"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Adlington%20Golf%20Centre%20(agc-gb)",
+		"picture": "https://gdhd-nl.relay.trackmanrange.com/"
+	  
+	  	
 	},
 	{
 		"index": 25,
