@@ -731,6 +731,16 @@
 		"liveshot": "https://sldr-gb.relay.trackmanrange.com/AureliaApp/#/shotviewer?hideTopMenu=true",
 		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Stonebridge%20Lake%20Driving%20Range%20(sldr-gb)",
 		"picture": "https://sldr-gb.relay.trackmanrange.com/"
+	},
+	
+		"index": 73,
+		"phone": "(204)793-4335",
+		"contact": "Craig Strand",
+		"email": "swuytguy@gmail.com",
+		"name": "St Charles Country Club",
+		"liveshot": "https://sccc-ca.relay.trackmanrange.com/AureliaApp/#/shotviewer?hideTopMenu=true",
+		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=St%20Charles%20Country%20Club%20(sccc-ca)",
+		"picture": "https://sccc-ca.relay.trackmanrange.com/"
 	}
 	
 	
