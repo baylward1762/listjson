@@ -637,9 +637,9 @@
 		"phone": "111111111",
 		"contact": "Marco Knaap",
 		"email": "swuytguy@gmail.com",
-		"name": "The Farm at Point Grey",
+		"name": "Point Grey Golf and Country Club",
 		"liveshot": "https://pggacc-ca.relay.trackmanrange.com/AureliaApp/#/shotviewer?hideTopMenu=true",
-		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Adlington%20Golf%20Centre%20(agc-gb)",
+		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Point%20Grey%20Golf%20and%20Country%20Club%20(pggacc-ca)",
 		"picture": "https://pggacc-ca.relay.trackmanrange.com/"
 	},
 		{
