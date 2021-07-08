@@ -1,6 +1,17 @@
 [
  
 	{
+		"index": 1,
+		"phone": "(242)676-6023",
+		"contact": "Marco Knaap",
+		"email": "swuytguy@gmail.com",
+		"name": "Albany Golf Centre",
+		"liveshot": "https://agc-bs.relay.trackmanrange.com/AureliaApp/#/shotviewer?hideTopMenu=true",
+		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Albany%20Golf%20Course%20(agc-bs)",
+		"picture": "https://agc-bs.relay.trackmanrange.com/"
+	},
+	
+	{
 		"index": 2,
 		"phone": "(810)225-9855",
 		"contact": "Marco Knaap",
