@@ -653,7 +653,7 @@
 		"email": "swuytguy@gmail.com",
 		"name": "The Beeches Golf",
 		"liveshot": "https://tbg-gb.relay.trackmanrange.com/AureliaApp/#/shotviewer?hideTopMenu=true",
-		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Adlington%20Golf%20Centre%20(agc-gb)",
+		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=T-Shotz%20-%20Metro%20North%20Crossing%20(tsmnc-mo-us)",
 		"picture": "https://tbg-gb.relay.trackmanrange.com/"
 	},
 		{
