@@ -766,6 +766,17 @@
 		"liveshot": "https://sccc-ca.relay.trackmanrange.com/AureliaApp/#/shotviewer?hideTopMenu=true",
 		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=St%20Charles%20Country%20Club%20(sccc-ca)",
 		"picture": "https://sccc-ca.relay.trackmanrange.com/"
+	},
+		{
+	
+		"index": 73,
+		"phone": "01592 720374",
+		"contact": "Callum Spence",
+		"email": "enquiries@clunyactivities.co.uk",
+		"name": "Cluny Clays Activity Center",
+		"liveshot": "https://ccac-gb.relay.trackmanrange.com/AureliaApp/#/shotviewer?hideTopMenu=true",
+		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Cluny%20Clays%20Activity%20Center%20(ccac-gb)",
+		"picture": "https://ccac-gb.relay.trackmanrange.com/"
 	}
 	
 	
