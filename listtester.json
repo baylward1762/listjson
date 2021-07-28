@@ -3,8 +3,8 @@
 	{
 		"index": 1,
 		"phone": "(242)676-6023",
-		"contact": "Marco Knaap",
-		"email": "add email",
+		"contact": "Lemon Gorospe",
+		"email": "lgorospe@albanybahamas.com",
 		"name": "Albany Golf Centre",
 		"liveshot": "https://agc-bs.relay.trackmanrange.com/AureliaApp/#/shotviewer?hideTopMenu=true",
 		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Albany%20Golf%20Course%20(agc-bs)",
@@ -13,9 +13,9 @@
 	
 	{
 		"index": 2,
-		"phone": "(810)225-9855",
-		"contact": "Marco Knaap",
-		"email": "usgh@gmail.com",
+		"phone": "+971 56 255 9905",
+		"contact": "Scott Sellars",
+		"email": "ssellars@abudhabigolf.ae",
 		"name": "Abu Dhabi Golf Club",
 		"liveshot": "https://adgc-ae.relay.trackmanrange.com/AureliaApp/#/shotviewer?hideTopMenu=true",
 		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Abu%20Dhabi%20Golf%20Club%20(adgc-ae)",
@@ -23,8 +23,8 @@
 	},
 	{
 		"index": 3,
-		"phone": "(447)494974269",
-		"contact": "Marco Knaap",
+		"phone": "+447494974269",
+		"contact": "Nick Moss",
 		"email": "add email",
 		"name": "Adlington Golf Centre",
 		"liveshot": "https://agc-gb.relay.trackmanrange.com/AureliaApp/#/shotviewer?hideTopMenu=true",
@@ -33,25 +33,15 @@
 	},
 	{
 		"index": 4,
-		"phone": "(810)225-985",
-		"contact": "Marco Knaap",
-		"email": "add email",
+		"phone": "add contact number",
+		"contact": "Yasunori Fudamoto",
+		"email": "yfu@trackman.com",
 		"name": "Alba Golf ",
 		"liveshot": "https://alg-jp.relay.trackmanrange.com/AureliaApp/#/shotviewer?hideTopMenu=true",
 		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Alba%20Golf%20(alg-jp)",
 		"picture": "https://alg-jp.relay.trackmanrange.com/"
 	},
 	{
-		"index": 9,
-		"phone": "add contact number",
-		"contact": "Marco Knaap",
-		"email": "add email",
-		"name": "Adlington Golf Centre",
-		"liveshot": "https://agc-gb.relay.trackmanrange.com/AureliaApp/#/shotviewer?hideTopMenu=true",
-		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Adlington%20Golf%20Centre%20(agc-gb)",
-		"picture": "https://agc-gb.relay.trackmanrange.com/"
-	},
-		{
 		"index": 5,
 		"phone": "(242)676-6023",
 		"contact": "Marco Knaap",
@@ -63,9 +53,9 @@
 	},
 		{
 		"index": 6,
-		"phone": "(810)225-985",
-		"contact": "Marco Knaap",
-		"email": "add email",
+		"phone": "353872604304",
+		"contact": "Donal McSweeny",
+		"email": "donal@mcsweeneygolf.ie",
 		"name": "Ballyneety Golf",
 		"liveshot": "https://bgc-ie.relay.trackmanrange.com/AureliaApp/#/shotviewer?hideTopMenu=true",
 		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Ballyneety%20Golf%20Club%20(bgc-ie)",
@@ -74,8 +64,8 @@
 		{
 		"index": 7,
 		"phone": "(301)767-8250",
-		"contact": "Marco Knaap",
-		"email": "add email",
+		"contact": "Ted Pogorelc",
+		"email": "ted.pogorelc@bethesdacountryclub.org",
 		"name": "Bethesda CC",
 		"liveshot": "https://bcc-md-us.relay.trackmanrange.com/AureliaApp/#/shotviewer?hideTopMenu=true",
 		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Bethesda%20Country%20Club%20(bcc-md-us)",
