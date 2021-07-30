@@ -833,7 +833,143 @@
 		"liveshot": "https://rpg-gb.relay.trackmanrange.com/AureliaApp/#/shotviewer?hideTopMenu=true",
 		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Rudding%20Park%20Golf%20(rpg-gb)",
 		"picture": "https://rpg-gb.relay.trackmanrange.com/"
+	},
+		{
+	
+		"index": 72,
+		"phone": "Call on Teams",
+		"contact": "Tatsuro Oshimoto",
+		"email": "tos@trackman.com",
+		"name": "Akita Golf Garden",
+		"liveshot": "https://agg-jp.relay.trackmanrange.com/AureliaApp/#/shotviewer?hideTopMenu=true",
+		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Akita%20Golf%20Garden%20(agg-jp)",
+		"picture": "https://agg-jp.relay.trackmanrange.com/"
+	},
+	{
+	
+		"index": 72,
+		"phone": "add contact number",
+		"contact": "Marco Knaap",
+		"email": "add email",
+		"name": "West Essex Golf Club",
+		"liveshot": "https://wegc-gb.relay.trackmanrange.com/AureliaApp/#/shotviewer?hideTopMenu=true",
+		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=West%20Essex%20Golf%20Club%20(wegc-gb)",
+		"picture": "https://wegc-gb.relay.trackmanrange.com/"
+	},
+	{
+	
+		"index": 72,
+		"phone": "787-504-8883",
+		"contact": "Alberto Rios",
+		"email": "alberto.rios@bahiapr.com",
+		"name": "Bahia Beach Resort & Golf Club",
+		"liveshot": "https://bbrgc-pr.relay.trackmanrange.com/AureliaApp/#/shotviewer?hideTopMenu=true",
+		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Bahia%20Beach%20Resort%20%26%20Golf%20Club%20(bbrgc-pr)",
+		"picture": "https://bbrgc-pr.relay.trackmanrange.com/"
+	},
+	{
+	
+		"index": 72,
+		"phone": "add contact number",
+		"contact": "Marco Knaap",
+		"email": "add email",
+		"name": "Bedder Golf Center",
+		"liveshot": "https://bgc-mi-us.relay.trackmanrange.com/AureliaApp/#/shotviewer?hideTopMenu=true",
+		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Bedder%20Golf%20Center%20(bgc-mi-us)",
+		"picture": "https://bgc-mi-us.relay.trackmanrange.com/"
+	},
+	{
+	
+		"index": 72,
+		"phone": "add contact number",
+		"contact": "Marco Knaap",
+		"email": "add email",
+		"name": "Blackthorn Wood GC",
+		"liveshot": "https://bwg-gb.relay.trackmanrange.com/AureliaApp/#/shotviewer?hideTopMenu=true",
+		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Blackthorn%20Wood%20GC%20(bwg-gb)",
+		"picture": "https://bwg-gb.relay.trackmanrange.com/"
+	},
+	{
+	
+		"index": 72,
+		"phone": "add contact number",
+		"contact": "Marco Knaap",
+		"email": "add email",
+		"name": "Boyne Golf",
+		"liveshot": "https://bog-mi-us.relay.trackmanrange.com/AureliaApp/#/shotviewer?hideTopMenu=true",
+		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Boyne%20Golf%20(bog-mi-us)",
+		"picture": "https://bog-mi-us.relay.trackmanrange.com/"
+	},
+	{
+	
+		"index": 72,
+		"phone": "add contact number",
+		"contact": "Marco Knaap",
+		"email": "add email",
+		"name": "Boyne Golf",
+		"liveshot": "https://cnwga-gb.relay.trackmanrange.com/AureliaApp/#/shotviewer?hideTopMenu=true",
+		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Chester%20%26%20North%20Wales%20Golf%20Academy%20(cnwga-gb)",
+		"picture": "https://cnwga-gb.relay.trackmanrange.com/"
+	},
+	{
+	
+		"index": 72,
+		"phone": "add contact number",
+		"contact": "Marco Knaap",
+		"email": "add email",
+		"name": "Chester & North Wales Golf Academy",
+		"liveshot": "https://cnwga-gb.relay.trackmanrange.com/AureliaApp/#/shotviewer?hideTopMenu=true",
+		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Chester%20%26%20North%20Wales%20Golf%20Academy%20(cnwga-gb)",
+		"picture": "https://cnwga-gb.relay.trackmanrange.com/"
+	},
+	{
+	
+		"index": 72,
+		"phone": "add contact number",
+		"contact": "Marco Knaap",
+		"email": "add email",
+		"name": "Dekker Warmond Golf",
+		"liveshot": "https://dwg-nl.relay.trackmanrange.com/AureliaApp/#/shotviewer?hideTopMenu=true",
+		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Dekker%20Warmond%20Golf%20(dwg-nl)",
+		"picture": "https://dwg-nl.relay.trackmanrange.com/"
+	},
+	{
+	
+		"index": 72,
+		"phone": "add contact number",
+		"contact": "Marco Knaap",
+		"email": "add email",
+		"name": "Dinsdale Golf Club",
+		"liveshot": "https://dgc-gb.relay.trackmanrange.com/AureliaApp/#/shotviewer?hideTopMenu=true",
+		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Dinsdale%20Golf%20Club%20(dgc-gb)",
+		"picture": "https://dgc-gb.relay.trackmanrange.com/"
+	},
+	{
+	
+		"index": 72,
+		"phone": "add contact number",
+		"contact": "Marco Knaap",
+		"email": "add email",
+		"name": "Doncaster Golf Range",
+		"liveshot": "https://dgr-gb.relay.trackmanrange.com/AureliaApp/#/shotviewer?hideTopMenu=true",
+		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Doncaster%20Golf%20Range%20(dgr-gb)",
+		"picture": "https://dgr-gb.relay.trackmanrange.com/"
+	},
+	{
+	
+		"index": 72,
+		"phone": "add contact number",
+		"contact": "Marco Knaap",
+		"email": "add email",
+		"name": "https://dgarc-tx-us.relay.trackmanrange.com/",
+		"liveshot": "https://dgarc-tx-us.relay.trackmanrange.com/AureliaApp/#/shotviewer?hideTopMenu=true",
+		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Driftwood%20Golf%20and%20Ranch%20Club%20(dgarc-tx-us)",
+		"picture": "https://dgarc-tx-us.relay.trackmanrange.com/"
 	}
+	
+	
+	
+	
 	
 	
 ]
