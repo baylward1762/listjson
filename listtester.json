@@ -973,9 +973,9 @@
 		"contact": "Tatsuro",
 		"email": "add email",
 		"name": "Time Zips 24",
-		"liveshot": "https://alg-jp.relay.trackmanrange.com/AureliaApp/#/shotviewer?hideTopMenu=true",
+		"liveshot": "https://tiz-jp.relay.trackmanrange.com/AureliaApp/#/shotviewer?hideTopMenu=true",
 		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&from=1628267210169&to=1628424083253&var-data_source=Time%20Zips%2024%20(tiz-jp)",
-		"picture": "https://alg-jp.relay.trackmanrange.com/"
+		"picture": "https://tiz-jp.relay.trackmanrange.com/"
 	}
 	
 	
