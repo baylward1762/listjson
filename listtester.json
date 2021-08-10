@@ -961,7 +961,7 @@
 		"phone": "add contact number",
 		"contact": "Marco Knaap",
 		"email": "add email",
-		"name": "https://dgarc-tx-us.relay.trackmanrange.com/",
+		"name": "Driftwood Golf and Ranch Club",
 		"liveshot": "https://dgarc-tx-us.relay.trackmanrange.com/AureliaApp/#/shotviewer?hideTopMenu=true",
 		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Driftwood%20Golf%20and%20Ranch%20Club%20(dgarc-tx-us)",
 		"picture": "https://dgarc-tx-us.relay.trackmanrange.com/"
@@ -976,6 +976,17 @@
 		"liveshot": "https://tiz-jp.relay.trackmanrange.com/AureliaApp/#/shotviewer?hideTopMenu=true",
 		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&from=1628267210169&to=1628424083253&var-data_source=Time%20Zips%2024%20(tiz-jp)",
 		"picture": "https://tiz-jp.relay.trackmanrange.com/"
+	},
+	{
+	
+		"index": 72,
+		"phone": "add contact number",
+		"contact": "No Contact",
+		"email": "add email",
+		"name": "Tri County Golf Ranch",
+		"liveshot": "https://tcgr-oh-us.relay.trackmanrange.com/AureliaApp/#/shotviewer?hideTopMenu=true",
+		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&from=1628267210169&to=1628424083253&var-data_source=Tri%20County%20Golf%20Ranch%20(tcgr-oh-us)",
+		"picture": "https://tcgr-oh-us.relay.trackmanrange.com/"
 	}
 	
 	
