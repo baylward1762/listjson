@@ -1053,6 +1053,39 @@
 		"liveshot": "https://kgc-jp.relay.trackmanrange.com/AureliaApp/#/shotviewer?hideTopMenu=true",
 		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Kashiwai%20Golf%20Center%20(kgc-jp)",
 		"picture": "https://kgc-jp.relay.trackmanrange.com/"
+	},
+	{
+	
+		"index": 72,
+		"phone": "add contact number",
+		"contact": "add Contact Name",
+		"email": "add email",
+		"name": "Plymouth Golf Centr",
+		"liveshot": "https://pgc-gb.relay.trackmanrange.com/AureliaApp/#/shotviewer?hideTopMenu=true",
+		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Plymouth%20Golf%20Centre%20(pgc-gb)",
+		"picture": "https://pgc-gb.relay.trackmanrange.com/"
+	},
+	{
+	
+		"index": 72,
+		"phone": "add contact number",
+		"contact": "add Contact Name",
+		"email": "add email",
+		"name": "Shaughnessy Golf & Country Club",
+		"liveshot": "https://sgcc-ca.relay.trackmanrange.com/AureliaApp/#/shotviewer?hideTopMenu=true",
+		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Plymouth%20Golf%20Centre%20(pgc-gb)",
+		"picture": "https://sgcc-ca.relay.trackmanrange.com/"
+	},
+	{
+	
+		"index": 72,
+		"phone": "add contact number",
+		"contact": "add Contact Name",
+		"email": "add email",
+		"name": "Stoneham Golf Club",
+		"liveshot": "https://sgc-gbc-ca.relay.trackmanrange.com/AureliaApp/#/shotviewer?hideTopMenu=true",
+		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Stoneham%20Golf%20Club%20(sgc-gb)",
+		"picture": "https://sgc-gb.relay.trackmanrange.com/"
 	}
 	
 	
