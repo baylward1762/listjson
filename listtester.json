@@ -987,7 +987,75 @@
 		"liveshot": "https://tcgr-oh-us.relay.trackmanrange.com/AureliaApp/#/shotviewer?hideTopMenu=true",
 		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&from=1628267210169&to=1628424083253&var-data_source=Tri%20County%20Golf%20Ranch%20(tcgr-oh-us)",
 		"picture": "https://tcgr-oh-us.relay.trackmanrange.com/"
+	},
+	{
+	
+		"index": 72,
+		"phone": "add contact number",
+		"contact": "add Contact Name",
+		"email": "add email",
+		"name": "Achimer Golf Club",
+		"liveshot": "https://agc-de.relay.trackmanrange.com/AureliaApp/#/shotviewer?hideTopMenu=true",
+		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Achimer%20Golf%20Club%20(agc-de)",
+		"picture": "https://agc-de.relay.trackmanrange.com/"
+	},
+	{
+	
+		"index": 72,
+		"phone": "add contact number",
+		"contact": "add Contact Name",
+		"email": "add email",
+		"name": "Golf & More Huckingen",
+		"liveshot": "https://gmh-de.relay.trackmanrange.com/AureliaApp/#/shotviewer?hideTopMenu=true",
+		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Golf%20%26%20More%20Huckingen%20(gmh-de)",
+		"picture": "https://gmh-de.relay.trackmanrange.com/"
+	},
+	{
+	
+		"index": 72,
+		"phone": "add contact number",
+		"contact": "add Contact Name",
+		"email": "add email",
+		"name": "Golf Club Hanau",
+		"liveshot": "https://gch-de.relay.trackmanrange.com/AureliaApp/#/shotviewer?hideTopMenu=true",
+		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Golf%20Club%20Hanau%20(gch-de)",
+		"picture": "https://gch-de.relay.trackmanrange.com/"
+	},
+	{
+	
+		"index": 72,
+		"phone": "add contact number",
+		"contact": "add Contact Name",
+		"email": "add email",
+		"name": "Golf Club Neuhof",
+		"liveshot": "https://gcn-de.relay.trackmanrange.com/AureliaApp/#/shotviewer?hideTopMenu=true",
+		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Golf%20Club%20Neuhof%20(gcn-de)",
+		"picture": "https://gcn-de.relay.trackmanrange.com/"
+	},
+	{
+	
+		"index": 72,
+		"phone": "add contact number",
+		"contact": "add Contact Name",
+		"email": "add email",
+		"name": "Golfclub Syke",
+		"liveshot": "https://gos2-de.relay.trackmanrange.com/AureliaApp/#/shotviewer?hideTopMenu=true",
+		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Golfclub%20Syke%20(gos2-de)",
+		"picture": "https://gos2-de.relay.trackmanrange.com/"
+	},
+	{
+	
+		"index": 72,
+		"phone": "add contact number",
+		"contact": "add Contact Name",
+		"email": "add email",
+		"name": "Kashiwai Golf Center",
+		"liveshot": "https://kgc-jp.relay.trackmanrange.com/AureliaApp/#/shotviewer?hideTopMenu=true",
+		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Kashiwai%20Golf%20Center%20(kgc-jp)",
+		"picture": "https://kgc-jp.relay.trackmanrange.com/"
 	}
+	
+	
 	
 	
 	
