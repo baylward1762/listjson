@@ -1086,6 +1086,17 @@
 		"liveshot": "https://sgc-gbc-ca.relay.trackmanrange.com/AureliaApp/#/shotviewer?hideTopMenu=true",
 		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Stoneham%20Golf%20Club%20(sgc-gb)",
 		"picture": "https://sgc-gb.relay.trackmanrange.com/"
+	},
+	{
+	
+		"index": 72,
+		"phone": "add contact number",
+		"contact": "add Contact Name",
+		"email": "add email",
+		"name": "Golf & More Huckingen",
+		"liveshot": "https://gmh-de.relay.trackmanrange.com/AureliaApp/#/shotviewer?hideTopMenu=true",
+		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Golf%20%26%20More%20Huckingen%20(gmh-de)",
+		"picture": "https://gmh-de.relay.trackmanrange.com/"
 	}
 	
 	
