@@ -393,7 +393,7 @@
 		"email": "add email",
 		"name": "Hørsholm Golfklub",
 		"liveshot": "https://hrg-dk.relay.trackmanrange.com/AureliaApp/#/shotviewer?hideTopMenu=true",
-		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Hudson%20National%20NY%20(hn-ny-us)",
+		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&from=now-6h&to=now&var-data_source=H%C3%B8rsholm%20Golfklub%20(hrg-dk)",
 		"picture": "https://hrg-dk.relay.trackmanrange.com/"
 	},	
 	{
