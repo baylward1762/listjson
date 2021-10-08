@@ -1076,7 +1076,20 @@
 		"liveshot": "https://sgc-gbc-ca.relay.trackmanrange.com/AureliaApp/#/shotviewer?hideTopMenu=true",
 		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Stoneham%20Golf%20Club%20(sgc-gb)",
 		"picture": "https://sgc-gb.relay.trackmanrange.com/"
+	},
+	{
+	
+		"index": 72,
+		"phone": "add contact number",
+		"contact": "add Contact Name",
+		"email": "add email",
+		"name": "Oakwood Country Club",
+		"liveshot": "https://occ-mo-us.relay.trackmanrange.com/AureliaApp/#/shotviewer?hideTopMenu=true",
+		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Oakwood%20Country%20Club%20(occ-mo-us)",
+		"picture": "https://occ-mo-us.relay.trackmanrange.com/"
 	}
+	
+	
 	
 	
 	
