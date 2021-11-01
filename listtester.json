@@ -1087,6 +1087,17 @@
 		"liveshot": "https://occ-mo-us.relay.trackmanrange.com/AureliaApp/#/shotviewer?hideTopMenu=true",
 		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Oakwood%20Country%20Club%20(occ-mo-us)",
 		"picture": "https://occ-mo-us.relay.trackmanrange.com/"
+	},
+	{
+	
+		"index": 72,
+		"phone": "add contact number",
+		"contact": "add Contact Name",
+		"email": "add email",
+		"name": "Cluny Clays Activity Center",
+		"liveshot": "https://ccac-gb.relay.trackmanrange.com/AureliaApp/#/shotviewer?hideTopMenu=true",
+		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Cluny%20Clays%20Activity%20Center%20(ccac-gb)",
+		"picture": "https://ccac-gb.relay.trackmanrange.com/"
 	}
 	
 	
