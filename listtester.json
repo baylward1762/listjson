@@ -1098,6 +1098,17 @@
 		"liveshot": "https://ccac-gb.relay.trackmanrange.com/AureliaApp/#/shotviewer?hideTopMenu=true",
 		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Cluny%20Clays%20Activity%20Center%20(ccac-gb)",
 		"picture": "https://ccac-gb.relay.trackmanrange.com/"
+	},
+	{
+	
+		"index": 72,
+		"phone": "add contact number",
+		"contact": "add Contact Name",
+		"email": "add email",
+		"name": "One Plane Golf Academy/Chepstow",
+		"liveshot": "https://opga-gb.relay.trackmanrange.com/AureliaApp/#/shotviewer?hideTopMenu=true",
+		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=One%20Plane%20Golf%20Academy%20(opga-gb)",
+		"picture": "https://opga-gb.relay.trackmanrange.com/"
 	}
 	
 	
