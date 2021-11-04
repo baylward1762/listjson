@@ -1102,9 +1102,9 @@
 	{
 	
 		"index": 72,
-		"phone": "add contact number",
-		"contact": "add Contact Name",
-		"email": "add email",
+		"phone": "+44 1291 497852",
+		"contact": "Leslie",
+		"email": "spschepstow@gmail.com",
 		"name": "One Plane Golf Academy/Chepstow",
 		"liveshot": "https://opga-gb.relay.trackmanrange.com/AureliaApp/#/shotviewer?hideTopMenu=true",
 		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=One%20Plane%20Golf%20Academy%20(opga-gb)",
