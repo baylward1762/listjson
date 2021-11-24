@@ -1131,6 +1131,17 @@
 		"liveshot": "https://sscr-sa-2.relay.trackmanrange.com/AureliaApp/#/shotviewer?hideTopMenu=true",
 		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Sela%20Sports%20Company%20Riyadh%202%20(sscr-sa)",
 		"picture": "https://sscr-sa-2.relay.trackmanrange.com/"
+	},
+	{
+	
+		"index": 72,
+		"phone": "Add Phone",
+		"contact": "Add contact",
+		"email": "Add Email",
+		"name": "Colin Glen Leisure",
+		"liveshot": "https://cgl-gb.relay.trackmanrange.com/AureliaApp/#/shotviewer?hideTopMenu=true",
+		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Colin%20Glen%20Leisure%20(cgl-gb)",
+		"picture": "https://cgl-gb.relay.trackmanrange.com/"
 	}
 	
 	
