@@ -948,9 +948,9 @@
 	{
 	
 		"index": 72,
-		"phone": "add contact number",
-		"contact": "Marco Knaap",
-		"email": "add email",
+		"phone": "(512) 318-6459",
+		"contact": "Tim Phelps",
+		"email": "tphelps@driftwoodgolfclub.com",
 		"name": "Driftwood Golf and Ranch Club",
 		"liveshot": "https://dgarc-tx-us.relay.trackmanrange.com/AureliaApp/#/shotviewer?hideTopMenu=true",
 		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Driftwood%20Golf%20and%20Ranch%20Club%20(dgarc-tx-us)",
