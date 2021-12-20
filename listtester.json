@@ -1138,6 +1138,17 @@
 		"phone": "Add Phone",
 		"contact": "Add contact",
 		"email": "Add Email",
+		"name": "The Golf Centre Coalville",
+		"liveshot": "https://tgcc-gb.relay.trackmanrange.com/AureliaApp/#/shotviewer?hideTopMenu=true",
+		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=The%20Golf%20Centre%20Coalville%20(tgcc-gb)",
+		"picture": "https://tgcc-gb.relay.trackmanrange.com/"
+	},
+	{
+	
+		"index": 72,
+		"phone": "Add Phone",
+		"contact": "Add contact",
+		"email": "Add Email",
 		"name": "Colin Glen Leisure",
 		"liveshot": "https://cgl-gb.relay.trackmanrange.com/AureliaApp/#/shotviewer?hideTopMenu=true",
 		"grafana": "https://monitor.trackmanrange.com/d/000000019/dr-tracker-monitoring-simple?orgId=1&var-data_source=Colin%20Glen%20Leisure%20(cgl-gb)",
